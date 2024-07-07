@@ -6,6 +6,9 @@ class HackerRank2
 
 	public static void main(String[] args) {
 		
+   ///------------------logic 1 ---------------------
+
+
 		Scanner scanner = new Scanner(System.in);
         Scanner sc = new Scanner(System.in);
 		int num1 = scanner.nextInt();
