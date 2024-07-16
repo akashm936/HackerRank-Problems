@@ -18,6 +18,8 @@ class CountStringChar
         int sum = Alength + Blength;
         System.out.println(sum);
         int i = A.compareTo(B);
+
+        
         if(i>0)
         {
         	System.out.println("Yes");
